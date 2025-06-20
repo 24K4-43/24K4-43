@@ -2,6 +2,7 @@
 - DevOps Enthusiast | Security-focused Developer  
 - Building secure and scalable applications  
 - Passionate about automation, cloud technologies, and cybersecurity
+- Interested in low-level programming languages like C and C++
   
 
 ## Tech Stack  
